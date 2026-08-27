@@ -1,8 +1,8 @@
 
-| Order ID | Customer   | Service           | Order Time | Status      | Assigned Staff | ETA    | Amount |
-| -------- | ---------- | ----------------- | ---------- | ----------- | -------------- | ------ | -----: |
-| ORD-1001 | Customer A | Home Cleaning     | 12:01 PM   | In Progress | Staff 14       | 25 min | ₹1,200 |
-| ORD-1002 | Customer B | AC Service        | 12:03 PM   | Assigned    | Staff 07       | 40 min |   ₹850 |
-| ORD-1003 | Customer C | Plumbing          | 12:07 PM   | Pending     | —              | —      |   ₹650 |
-| ORD-1004 | Customer D | Electrical Repair | 12:10 PM   | Completed   | Staff 21       | —      | ₹1,450 |
-| ORD-1005 | Customer E | Appliance Repair  | 12:12 PM   | On the Way  | Staff 11       | 15 min |   ₹900 |
+ Customer   | Service           | Order Time | Status      | Assigned Staff | ETA    | Amount |
+ ---------- | ----------------- | ---------- | ----------- | -------------- | ------ | -----: |
+ Customer A | Home Cleaning     | 12:01 PM   | In Progress | Staff 14       | 25 min | ₹1,200 |
+ Customer B | AC Service        | 12:03 PM   | Assigned    | Staff 07       | 40 min |   ₹850 |
+ Customer C | Plumbing          | 12:07 PM   | Pending     | —              | —      |   ₹650 |
+ Customer D | Electrical Repair | 12:10 PM   | Completed   | Staff 21       | —      | ₹1,450 |
+ Customer E | Appliance Repair  | 12:12 PM   | On the Way  | Staff 11       | 15 min |   ₹900 |
